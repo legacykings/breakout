@@ -15,7 +15,7 @@ ball_y = 250
 ball_size = 10
 bVx = 5
 bVy = 5
-p1Score = 0
+p1Score = 69
 
 class brick:
     def __init__(self, xpos, ypos):
